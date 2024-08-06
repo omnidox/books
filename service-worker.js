@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["images/books-bg.jpg","e97ac6fafff0d5f8cb2665bdf24d28c9"],["index.html","2750ccd659b79e1504f5dd81c03f163c"],["manifest.json","915eb042f5b667f387bcbc97a5568173"],["src/components/book-404.js","77d68ff101de266c582924bad410ac41"],["src/components/book-about.js","715b32dab016a388e84a0d6316793003"],["src/components/book-app.js","8219b7d2d59c74290dd6c70d4e6e8ccd"],["src/components/book-detail.js","7ec50ce2399cfb08b491c759c8fcede5"],["src/components/book-explore.js","9d43204b9b83b993cbd0ff590dae9ab0"],["src/components/book-favorites.js","1e099215ddeb988868555ef0b2657d0c"],["src/components/book-viewer.js","303de69aca32b3670342b7dd68a70426"],["src/components/lazy-resources.js","ff865ce409d5338ea07e00da6f3ebae3"]];
+var precacheConfig = [["images/books-bg.jpg","e97ac6fafff0d5f8cb2665bdf24d28c9"],["index.html","c67a7853879ec758959c80cee8a8850d"],["manifest.json","915eb042f5b667f387bcbc97a5568173"],["src/components/book-404.js","77d68ff101de266c582924bad410ac41"],["src/components/book-about.js","715b32dab016a388e84a0d6316793003"],["src/components/book-app.js","8219b7d2d59c74290dd6c70d4e6e8ccd"],["src/components/book-detail.js","7ec50ce2399cfb08b491c759c8fcede5"],["src/components/book-explore.js","9d43204b9b83b993cbd0ff590dae9ab0"],["src/components/book-favorites.js","1e099215ddeb988868555ef0b2657d0c"],["src/components/book-viewer.js","303de69aca32b3670342b7dd68a70426"],["src/components/lazy-resources.js","ff865ce409d5338ea07e00da6f3ebae3"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
